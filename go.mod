@@ -1,3 +1,3 @@
-module github.com/zwsq/g
+module multiplier.go
 
 go 1.23.5
